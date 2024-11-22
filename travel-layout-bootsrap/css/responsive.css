@@ -1,0 +1,88 @@
+
+/* Adjustments for smaller screens */
+@media (max-width: 768px) {
+    .container {
+      width: 100%;
+      padding: 0 15px; 
+    }
+  
+    .carousel-caption {
+      margin-top: 30px; 
+    }
+  
+    .carOnData {
+      top: 50%; 
+      width: unset !important;
+    }
+  
+    .rightnext,
+    .leftPrv {
+      right: 20%; 
+      left: 20%; 
+    }
+    .rectangle{
+        width: 100%;
+        margin-bottom: 12px;
+      }
+    .upicon {
+      top: -34px; 
+    }
+    .form-wrap{
+        flex-wrap: wrap;
+      }
+      .pra{
+        padding: 0;
+    }
+  }
+  
+  /* Adjustments for extra small screens */
+  @media (max-width: 576px) {
+    .navbar-toggler {
+      margin-right: 15px; 
+    }
+    .rectangle{
+        margin-bottom: 12px;
+    }
+  .main{
+    flex-direction: column;
+
+  }
+  .form-wrap{
+    flex-wrap: wrap;
+  }
+.sec4{
+    flex-wrap: wrap;
+}
+.pra{
+    padding: 0;
+}
+    .rehat-logo {
+      width: 40px; 
+      height: 40px; 
+    }
+  
+    .carousel-caption {
+      margin-top: 20px; 
+    }
+  
+    .carOnData {
+      top: 40%; 
+      width: unset !important;
+    }
+  
+    .rightnext,
+    .leftPrv {
+      right: 15%; 
+      left: 15%; 
+    }
+  
+    .upicon {
+      top: -24px; 
+    }
+  
+    .section-2 .rectangle {
+      width: 90%; 
+    }
+  }
+  
+

@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Almarai", sans-serif;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+
+.need{
+    margin-left: 30px;
+    color:#10317875;
+}
+.a-tag-dec{
+    text-decoration: none; 
+}
+.gray-color{
+    color: #646268;
+}
+.border-end{
+    border : 1px solid #646268;
+}
+.tittle-menu{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 0;
+    text-align: end;
+}
+.uk-flag{
+    width: 5%;
+    height: auto;
+}
+.rehat-logo{
+    color: #363636;
+}
+.navLink {
+    display: block;
+    padding: .5rem 1rem;
+    color: #4b4f54;
+    text-decoration: none;
+    font-weight: bold;
+}
+.navLink:focus {
+    color: #2398DB;
+    border-bottom: 3px solid #2398DB;
+    width: 50%;
+}
+.fa-magnifying-glass, .fa-suitcase, .fa-credit-card{
+    color: white;
+    background: #009EDD;
+    font-size:20px;
+    padding: 10px;
+    border-radius: 50px;
+    
+}
+.carousel-caption {
+    top: 0;
+    bottom: auto;
+    margin-top: 80px;
+}
+.text{
+    font-size: 60px;
+}
+.carOnData{
+    z-index: 1;
+    width: inherit;
+    top:60%;
+   
+}
+.first-slider{
+    height: 700px !important;
+}
+.cantant{
+    background: #fff;
+}
+.hotel.active{
+    background: #fff !important;
+    color: #009EDD !important;
+}
+.hotel{
+    color: #fff !important;
+}
+.rightnext {
+    right: 40%;
+    
+}
+.leftPrv {
+    left: 40%;
+   
+}
+.carousel-control-prev-icon{
+    border: 2px solid #fcfcfc;
+    border-radius: 50px;
+    margin-top: 35px;
+}
+.carousel-control-next-icon{
+    border: 2px solid #fcfcfc;
+    border-radius: 50px;
+    margin-top: 35px;
+}
+.bg-but{
+    background: #009EDD !important;
+}
+.sec2-text{
+    color:  #009EDD;
+}
+.gray-text{
+    color: #acacac;
+}
+.dark-gray-t{
+    color: #636363;
+}
+.pra{
+    padding: 0 143px;
+    text-align: center;
+}
+.rectangle{
+    background: #eaeaea;
+    color:  #009EDD;
+    padding: 25px 0 10px 0;
+    width: 365px;
+    border-radius: 3px;
+    text-align: center;
+}
+.navbar-toggler
+{
+    /* background-color: beige !important; */
+} 
+.bord-w{
+    border: 5px solid #fff;
+}
+.upicon {
+    top: -54px;
+}
+.graybg{
+    background: #eaeaea;
+}
+.card-list{
+    width: 100%;
+}
+.fa-angle-right{
+    border: 2px solid #acacac;
+    padding: 1px 4px;
+    font-size: smaller;
+    margin-right: 10px;
+    border-radius: 50px;
+}
+.fot-arow{
+    border: 2px solid #acacac;
+    padding: 1px 3px;
+    font-size: smaller;
+    border-radius: 50px;
+}
+.bg{
+    background: #2a2a2a;
+}
+.rehat-logo-footer{
+    color: #a3a3a3;
+}
+.fa-twitter{
+    background: #009EDD;
+    padding: 7px 10px;
+    border-radius: 5px;
+}
+.fa-facebook-f{
+    background: #27417d;
+    padding: 7px 13px;
+    border-radius: 5px;
+}
+.fa-globe{
+    background: #c924c0;
+    padding: 7px 10px;
+    border-radius: 5px;
+}
+.fa-youtube{
+    background: #c92424;
+    padding: 7px 10px;
+    border-radius: 5px;
+}
+.fa-wifi{
+    background: #c97c24;
+    padding: 7px 10px;
+    border-radius: 5px;
+}
+.footer{
+    padding-top: 60px;
+}
+.fon-foot{
+    font-size: 15px;
+}
+.fa-chevron-up{
+border: 2px solid  #009EDD;
+    color:  #009EDD;
+    padding: 10px;
+    border-radius: 5px;
+}
+.offerSlider{
+width: 40% !important;
+}
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 0;
+    align-items: center;
+}
